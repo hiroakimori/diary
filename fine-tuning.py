@@ -21,3 +21,6 @@ def save_history(history, result_file):
         fp.write("epoch\tloss\tacc\tval_loss\tval_acc\n")
         for i in range(nb_epoch):
             fp.write("%d\t%f\t%f\t%f\t%f\n" % (i, loss[i], acc[i], val_loss[i], val_acc[i]))
+           
+       
+# v 修正したった
