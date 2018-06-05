@@ -1,0 +1,2 @@
+def hogehoge():
+    print("eraikoccha")
