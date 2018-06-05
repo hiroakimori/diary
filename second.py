@@ -1,5 +1,5 @@
 def hogehoge():
-    print("eraikoccha")
+    print("ここを変えよう")
 
     # mata code wo kaitazo
 
