@@ -1,5 +1,5 @@
 def hogehoge():
-    print("eraikoccha")
+    print("ここを変えよう")
 
     # mata code wo kaitazo
 
@@ -13,3 +13,4 @@ def hogehoge():
 
     # remote de koushin
 
+    # 17:10
