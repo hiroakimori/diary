@@ -8,3 +8,5 @@ def hogehoge():
     # remote de modify shitayo
 
     # 16:42に更新
+
+    # local de koushin
